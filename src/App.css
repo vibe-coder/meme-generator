@@ -64,6 +64,21 @@
   color: white;
   border: none;
   cursor: pointer;
-
 }
+
+.meme-image-wrapper{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.meme-image{
+  width: 520px;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+}
+
+
 
